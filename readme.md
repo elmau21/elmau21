@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Maricio Pacheco Lizama</h1>
+<h1 align="center">Hi 👋, I'm Mauricio Pacheco Lizama</h1>
 <h3 align="center">A passionate Full-Stack Dev from Mexico</h3>
 
 <h3 align="left">Connect with me:</h3>
