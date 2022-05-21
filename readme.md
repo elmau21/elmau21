@@ -6,7 +6,7 @@
 
 - 💻 Front-End Developer
 - 🛑 Backend-End Developer
-- ⚛ React.JS Lover
+- ⚛ React.js Lover
 - 🆔 Big Data Engineering Student
 
 <h3 align="left">Contact me or just let's chill:</h3>
