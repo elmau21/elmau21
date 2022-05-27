@@ -2,7 +2,8 @@
 <h3 align="center">🤍I love to coding in any mood, any situation!🤍</h3>
 <h4 align="center">From Mexico with 18 years living in this world</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elmau21&theme=onestar" alt="maudev" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?elmau21=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 💻 Front-End Developer
 - 🛑 Backend-End Developer
