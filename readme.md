@@ -3,7 +3,7 @@
 <h4 align="center">From Mexico with 18 years living in this world</h4>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?elmau21=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dark_lover)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 💻 Front-End Developer
