@@ -9,8 +9,9 @@
 - 💻 Front-End Developer
 - 🛑 Backend-End Developer
 - ⚛ React.js Lover
-- 🆔 Big Data Engineering Student
-
+- 🆔 Data Engineering Student
+- 🆔 Data Scientist: Machine Learning Specialization
+ 
 <h3 align="left">Contact me or just let's chill:</h3>
 <p align="left">
 <a href="https://twitter.com/maugodtv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maudev" height="30" width="40" /></a>
