@@ -9,8 +9,10 @@
 - 💻 Front-End Developer
 - 🛑 Backend-End Developer
 - ⚛ React.js Lover
-- 🆔 Data Engineering Student
-- 🆔 Data Scientist: Machine Learning Specialization
+- 👨🏻‍💻 Data Engineering Student
+- 👨🏻‍💻 Data Scientist: Machine Learning Specialization
+- 👨🏻‍💻 AI Scientist
+- 👨🏻‍💻 NLP Researcher
  
 <h3 align="left">Contact me or just let's chill:</h3>
 <p align="left">
