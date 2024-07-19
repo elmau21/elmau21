@@ -39,12 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elmau21/elmau21/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <a href="https://open.spotify.com/user/maupacheco65">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=maupacheco65&count=5&unique=false" alt="Spotify recently played"  />
